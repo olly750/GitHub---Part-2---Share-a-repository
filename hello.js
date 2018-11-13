@@ -1,0 +1,1 @@
+console.log("Hello new developers on Open classrooms");
